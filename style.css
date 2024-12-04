@@ -1,0 +1,27 @@
+.J1{
+display: flex;
+justify-content: center;
+}
+#B1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    border-radius: 6px;
+    border-style:solid;
+    border-color: #afafaf;
+    color:#afafaf;
+}
+#B1:hover{
+    cursor: pointer;
+    background-color: #afafaf;
+    border-color: white;
+    color: white;
+}
+#L1{
+    color: white; 
+    font-size: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.J2{
+    display: flex;
+    justify-content: center;
+}
